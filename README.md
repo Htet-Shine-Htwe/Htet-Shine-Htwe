@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Nano(Malay)**
 
-- 🌱 I’m currently learning **Rust and dart**
+- 🌱 I want to  lear **Rust and dart** but currently I'm busy with LAMP stack 😭😭😭
 
 - 💬 Ask me about **Laravel , Javascript**
 
