@@ -9,13 +9,7 @@
 
 - 🔭 I’m currently working on **AGGA.io**
 
-- 🌱 I'm busy with LAMP & TALL stack 😭😭😭
-
-- 💬 Ask me about **Laravel , Javascript**
-
 - 📫 How to reach me **htetshine.coin@gmail.com**
-
-- ⚡ Fun fact **I am owl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
