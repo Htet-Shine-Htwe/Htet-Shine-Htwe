@@ -15,8 +15,9 @@
 <p align="left">
 <a href="https://twitter.com/htetshine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="htetshine" height="30" width="40" /></a>
 <a href="https://fb.com/htetshinehtwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="htetshinehtwe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/htet-shine-61082028a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="htetshinehtwe" height="30" width="100" /></a>
 </p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/htet-shine-61082028a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="htetshinehtwe" height="30" width="40" /></a>
+
 
 
 
