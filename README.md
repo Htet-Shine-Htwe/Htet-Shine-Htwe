@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/htetshine" target="blank"><img src="https://img.shields.io/twitter/follow/htetshine?logo=twitter&style=for-the-badge" alt="htetshine" /></a> </p>
 
-- 🔭 I’m currently working on **AGGA.io**
+- 🔭 I’m currently working on **MyanSIS**
 
 - 📫 How to reach me **htetshine.coin@gmail.com**
 
