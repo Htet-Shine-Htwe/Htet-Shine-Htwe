@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Htet shine htwe</h1>
-<h3 align="center">A passionate Backend developer from Myanmar</h3>
+<h3 align="center">A passionate developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htet-shine-htwe&label=Profile%20views&color=0e75b6&style=flat" alt="htet-shine-htwe" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/htetshine" target="blank"><img src="https://img.shields.io/twitter/follow/htetshine?logo=twitter&style=for-the-badge" alt="htetshine" /></a> </p>
 
-- 🔭 I’m currently working on **MyanSIS**
+- 🔭 I’m currently working on **MSIS**
 
 - 📫 How to reach me **htetshine.coin@gmail.com**
 
@@ -17,9 +17,6 @@
 <a href="https://fb.com/htetshinehtwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="htetshinehtwe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/htet-shine-61082028a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="htetshinehtwe" height="30" width="100" /></a>
 </p>
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
